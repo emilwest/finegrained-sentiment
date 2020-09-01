@@ -1,7 +1,11 @@
 # finegrained-sentiment
 New repository with cleaned up files for bachelor thesis in language technology 
 
-#Files:
+# List of all files and folders:
+
+## Folders
+- csv_from_webscraper : contains one csv per category retrieved from webscraper.py 
+
 
 ## Python
 - webscraper.py : used for downloading data sets from prisjakt.se
